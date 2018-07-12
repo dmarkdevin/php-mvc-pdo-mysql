@@ -11,10 +11,10 @@
     <title><?=isset($data['title'])?$data['title']:'';?></title>
 
     <!-- Bootstrap core CSS -->
-    <link href="<?=ASSETS;?>vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?=FRONT;?>vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="<?=ASSETS;?>css/modern-business.css" rel="stylesheet">
+    <link href="<?=FRONT;?>css/modern-business.css" rel="stylesheet">
 
   </head>
 

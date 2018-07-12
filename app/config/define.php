@@ -3,9 +3,9 @@
 
 $configs = [
     'path' => [
-        'ASSETS'	=> URL_ROOT . 'assets/startbootstrap-modern-business/',
-        'BACK'      => '',
-        'FRONT'     => '',
+        'ASSETS'	=> URL_ROOT . 'assets/',
+        'BACK'      => URL_ROOT . 'assets/joli/',
+        'FRONT'     => URL_ROOT . 'assets/startbootstrap-modern-business/',
         'UPLOADS'	=> 'uploads/'
     ],
     'database' => [

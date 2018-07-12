@@ -8,8 +8,8 @@
     </footer>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="<?=ASSETS;?>vendor/jquery/jquery.min.js"></script>
-    <script src="<?=ASSETS;?>vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="<?=FRONT;?>vendor/jquery/jquery.min.js"></script>
+    <script src="<?=FRONT;?>vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   </body>
 

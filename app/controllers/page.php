@@ -41,6 +41,10 @@ class page extends Controller
 	public function login(){ 
 		
 		$data['title'] = "LOGIN PAGE";
+
+		if(isset($_POST['submit'])){
+			redirect('member');
+		}
 		
 		$this->view('header',$data);
 		$this->view('login');
